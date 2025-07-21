@@ -1,4 +1,4 @@
-# 🎮 **FunSkool Strike4 – The Ultimate AI-Powered Connect 4 Game**
+# 🎮 **FunSkool Strike4 – The AI-Powered Connect 4 Game**
 
 **FunSkool Strike4** is a powerful, visually rich, and AI-driven online version of the classic Connect 4 game. Featuring a smart opponent, colorful UI, real-time gameplay, and rich animations, it’s perfect for both casual gamers and competitive strategists.
 
